@@ -1,8 +1,8 @@
-# 走るか寝るかするメロス
+# うに
 
 ## 概要
 
-ティラノスクリプトのサンプルコード。
+うにげーむ。
 
 * [テストプレイ](https://appi-github.github.io/tyrano_sample/)
 
